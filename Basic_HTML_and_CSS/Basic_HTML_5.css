@@ -1,0 +1,10 @@
+
+.shadow_effect{
+	color: blue;
+	text-shadow: 2px red;
+}
+
+
+/*function shadow_effect(){
+	document.getElementById("myH1")style.textShadow="2px 5px 5px red";
+}*/

@@ -1,0 +1,19 @@
+
+		.font_1{
+			background-color:yellow;
+			color:black;
+			font-size:large;
+		}
+		.font_2{
+			background-color:darkblue;
+			color:white;
+			font-size:medium;
+		}
+		.My_Style{
+			background-color: white;
+			color: red;
+			font-weight: bold;
+			font-size: large;
+			font-family: "Times New Roman", Times, serif;
+			text-decoration: underline;
+		}
