@@ -1,2 +1,4 @@
 # Basic_HTML_and_Javascript_1
-Experiment with html and javascript
+
+
+Simple practice html and javascript assignments.
